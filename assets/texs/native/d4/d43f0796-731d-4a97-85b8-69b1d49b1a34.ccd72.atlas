@@ -1,0 +1,76 @@
+
+sk_shengli_shibai.png
+size: 888,472
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sb_1
+  rotate: false
+  xy: 0, 5
+  size: 297, 125
+  orig: 297, 125
+  offset: 0, 0
+  index: -1
+sb_2
+  rotate: false
+  xy: 299, 5
+  size: 297, 125
+  orig: 297, 125
+  offset: 0, 0
+  index: -1
+sb_4
+  rotate: false
+  xy: 0, 303
+  size: 610, 169
+  orig: 610, 169
+  offset: 0, 0
+  index: -1
+sl_1
+  rotate: true
+  xy: 612, 0
+  size: 270, 149
+  orig: 270, 149
+  offset: 0, 0
+  index: -1
+sl_2
+  rotate: true
+  xy: 612, 272
+  size: 200, 204
+  orig: 200, 204
+  offset: 0, 0
+  index: -1
+sl_3
+  rotate: true
+  xy: 763, 5
+  size: 221, 125
+  orig: 221, 125
+  offset: 0, 0
+  index: -1
+sl_5
+  rotate: false
+  xy: 0, 132
+  size: 610, 169
+  orig: 610, 169
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: false
+  xy: 763, 240
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+zi_4_1
+  rotate: true
+  xy: 818, 228
+  size: 121, 63
+  orig: 121, 63
+  offset: 0, 0
+  index: -1
+zi_4_2
+  rotate: true
+  xy: 818, 351
+  size: 121, 64
+  orig: 121, 64
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+sk_hecheng.png
+size: 590,590
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fa3
+  rotate: false
+  xy: 152, 10
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+g_y_d1
+  rotate: false
+  xy: 218, 32
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+guang_huan
+  rotate: false
+  xy: 0, 0
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+guang_huan1
+  rotate: false
+  xy: 76, 0
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+hit3_000
+  rotate: false
+  xy: 0, 420
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+hit3_001
+  rotate: false
+  xy: 0, 248
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+hit3_002
+  rotate: false
+  xy: 0, 76
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+hit3_003
+  rotate: false
+  xy: 172, 420
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+hit3_004
+  rotate: false
+  xy: 172, 248
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+hit3_005
+  rotate: false
+  xy: 172, 76
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+hit3_006
+  rotate: false
+  xy: 344, 420
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+hit3_007
+  rotate: false
+  xy: 344, 248
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+hit3_008
+  rotate: false
+  xy: 344, 76
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+x2
+  rotate: false
+  xy: 218, 6
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+xin
+  rotate: false
+  xy: 244, 7
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+xin2
+  rotate: false
+  xy: 260, 51
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
